@@ -74,6 +74,7 @@ margin-top: -1px;
 border-radius: 25px;
 color: white;
 display: flex;
+ min-width: 750px;
 }
 
 .l1{
