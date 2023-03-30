@@ -4,7 +4,7 @@ body{
 background: black;
 color: white;
 font-family: Samsung Sharp Sans;
-overflow-x:hidden; 
+/* overflow-x:hidden;  */
 -webkit-touch-callout: none;
 -webkit-user-select: none;
 -khtml-user-select: none;
